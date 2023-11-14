@@ -1,9 +1,5 @@
 # EU-2net-Ensembled-U-2Net
-EU^2net: A Parameter Efficient Ensembled U^2N et Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images
-
-# Watermeter-Digit-Recognition
-
-This is the official implementation  of "An Attention-based Fusion of ResNet50 and InceptionV3 Model for Water Meter Digit Recognition"
+This is the official implementation  of "EU^2net: A Parameter Efficient Ensembled U^2N et Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images"
 
 ### Overall workflow:
 ![architecture](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/b662cc6a-a203-4b19-99b9-383c5d406120)
