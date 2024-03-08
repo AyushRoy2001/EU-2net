@@ -22,6 +22,8 @@ This is the official implementation  of "EU^2net: A Parameter Efficient Ensemble
 -Download the TNBC and MonuSeg datasets.<br/>
 -Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
 
+Saved model: https://drive.google.com/drive/folders/12fxzkx0kUjuo-P6lSnwEKDZwYFprT59V?usp=drive_link
+
 ## Results
 ![heat](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/7ea420f6-77e2-4385-bc72-ae66659fd656)
 ![output_heat](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/69ab2348-9cc2-4998-8f57-7095f856f13b)
