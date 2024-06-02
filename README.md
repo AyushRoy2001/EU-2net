@@ -16,12 +16,6 @@ This is the official implementation  of "EU^2net: A Parameter Efficient Ensemble
 ### Training and validation curves:
 ![curves](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/30a9e6ca-2149-4455-b31d-16250f3cdbb4)
 
-
-## How to use
--Fork the repository.<br/>
--Download the TNBC and MonuSeg datasets.<br/>
--Run the jupyter notebook to train the model and generate results. Make sure to change the paths according to your requirement.<br/>
-
 Saved model: https://drive.google.com/drive/folders/12fxzkx0kUjuo-P6lSnwEKDZwYFprT59V?usp=drive_link
 
 ## Results
