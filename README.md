@@ -31,6 +31,13 @@ Ram Sarkar<br/>
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
 Citation-<br/>
+@article{roy2024eu,
+  title={EU 2--Net: A Parameter Efficient Ensemble Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images},
+  author={Roy, Ayush and Pramanik, Payel and Sarkar, Ram},
+  journal={IEEE Transactions on Instrumentation and Measurement},
+  year={2024},
+  publisher={IEEE}
+}
 
 <br/>
 -Link to our paper-<br/>
