@@ -3,7 +3,7 @@ import tensorflow.keras as keras
 import keras.backend as K
 from tensorflow.keras.models import Model
 from tensorflow.keras.layers import *
-from tensorflow.keras.optimizers import Adam
+from tensorflow.keras.optimizers import AdamW
 
 def wavelet(feature_map, order):
     B,H,W,C = feature_map.shape
@@ -238,7 +238,7 @@ def build_u2net(input_shape, num_classes=1):
     return model
 
 model = build_u2net((512, 512, 1))
-optimizer = Adam(lr=0.0001)
+optimizer = AdamW(lr=0.0001)
 model.compile(loss=combined_loss, metrics=["accuracy",dice_score,recall,precision,iou], optimizer = optimizer)
 model.summary()
     
