@@ -23,12 +23,12 @@ Saved model: https://drive.google.com/drive/folders/12fxzkx0kUjuo-P6lSnwEKDZwYFp
 ![output_heat](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/69ab2348-9cc2-4998-8f57-7095f856f13b)
 
 
-## Authors :nerd_face:*
+## Authors :nerd_face:
 Ayush Roy<br/>
 Payel Pramanik<br/>
 Ram Sarkar<br/>
 
-## Citation :thinking:*
+## Citation :thinking:
 Please do cite our paper in case you find it useful for your research.<br/>
 ```
 @article{roy2024eu,
