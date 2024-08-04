@@ -1,5 +1,5 @@
-# EU-2net-Ensembled-U-2Net
-This is the official implementation  of "EU^2net: A Parameter Efficient Ensembled U^2N et Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images"
+# EU^2net: A Parameter Efficient Ensembled U^2N et Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images
+This is the official implementation  of "EU^2net: A Parameter Efficient Ensembled U^2N et Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images" (IEEE TIM 2024).
 
 ### Overall workflow:
 ![architecture](https://github.com/AyushRoy2001/EU-2net-Ensembled-U-2Net/assets/94052139/b662cc6a-a203-4b19-99b9-383c5d406120)
@@ -30,7 +30,7 @@ Ram Sarkar<br/>
 
 ## Citation :thinking:*
 Please do cite our paper in case you find it useful for your research.<br/>
-Citation-<br/>
+```
 @article{roy2024eu,
   title={EU 2--Net: A Parameter Efficient Ensemble Model with Attention-aided Triple Feature Fusion for Tumor Segmentation in Breast Ultrasound Images},
   author={Roy, Ayush and Pramanik, Payel and Sarkar, Ram},
@@ -38,7 +38,5 @@ Citation-<br/>
   year={2024},
   publisher={IEEE}
 }
-
-<br/>
--Link to our paper-<br/>
+```
 
